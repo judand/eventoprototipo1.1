@@ -1,0 +1,78 @@
+{
+  "eventos": [
+    {
+      "id": 2001,
+      "nombre": "Concierto de musica clasica",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Ágora",
+      "descripcion": "",
+      "categoria": "musica",
+      "capacidad": 150,
+      "pagar": {
+        "siPaga": true,
+        "valor": 2000},
+      "imagen":"http://thr2y3lcnnh2ths9v2z7pw0h.wpengine.netdna-cdn.com/wp-content/uploads/2017/03/clasica_0-810x539.jpg"
+    },
+    {
+      "id": 2002,
+      "nombre": "El Quijote",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Luis A. Calvo",
+      "descripcion": "",
+      "categoria": "teatro",
+      "capacidad": 250,
+      "pagar": {
+        "siPaga": false,
+        "valor": 0
+      },
+      "imagen":"https://letralia.com/wp-content/uploads/2018/04/quijote.jpg"
+    },
+    {
+      "id": 2003,
+      "nombre": "danza artistica",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio al aire libre Jose Gntonio Galan",
+      "descripcion": "",
+      "categoria": "Danza",
+      "capacidad": 550,
+      "pagar": {
+        "siPaga": false,
+        "valor": 0
+      },
+      "imagen":"http://www.danzacomun.com/wp-content/uploads/2018/08/Ensenar-bailar-danza-ninos-estrategias.jpg"
+    },
+    {
+      "id": 2004,
+      "nombre": "Concierto Ricardo Gallo Cuarteto ",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Auditorio Luis A. Calvo",
+      "descripcion": "",
+      "categoria": "Concierto",
+      "capacidad": 2000,
+      "pagar": {
+        "siPaga": false,
+        "valor": 7000
+      },
+      "imagen":"https://universoabiertoblog.files.wordpress.com/2017/03/31.jpg"
+    },
+    {
+      "id": 2005,
+      "nombre": "la Trilogia de Bill",
+      "pais": "Colombia",
+      "ciudad": "Bucaramanga",
+      "lugar": "Sala Jorge Salamea",
+      "descripcion": "",
+      "categoria": "cine",
+      "capacidad": 150,
+      "pagar": {
+        "siPaga": false,
+        "valor": 0
+      },
+      "imagen":"https://www.araucacity.com/wp-content/uploads/job-manager-uploads/main_image/2016/07/cineko-real-sala-de-cine-en-arauca-pantalla-gigante-peliculas-infantiles-en-arauca.jpg"
+    }
+  ]
+}
